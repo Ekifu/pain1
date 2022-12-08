@@ -26,7 +26,7 @@
     if ($result != 1) {
         echo ('Niepoprawne hasło lub login');
     } else {
-        header("Location: http://localhost/napewno%20najnowsza/zalogowano.php");
+        header("Location: http://localhost/pain1-main/zalogowano.php");
     }
     ?>
     
