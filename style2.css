@@ -1,0 +1,10 @@
+body {
+  height: 53vh;
+  width: 93vw;
+  font-family: "Poor Story", cursive;
+  background: linear-gradient(to bottom, #99ccff 0%, #9966ff 100%);
+  text-align: center;
+  padding-top: 45vh;
+  font-weight: bold;
+  font-size: xx-large;
+}

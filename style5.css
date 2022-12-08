@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  width: 100vw;
+  height: 100vh;
+  background: linear-gradient(to bottom, #99ccff 0%, #9966ff 100%);
+  font-family: "Poor Story", cursive;
+  text-align: center;
+}
+div {
+  height: 60%;
+  width: 100vw;
+  padding-top: 30vh;
+  float: left;
+  font-family: "Poor Story", cursive;
+  font-weight: 900;
+  font-size: xx-large;
+}
+form {
+  height: 30%;
+  width: 100vw;
+}
